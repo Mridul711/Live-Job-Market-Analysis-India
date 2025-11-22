@@ -34,7 +34,6 @@ Instead of relying on generic job titles, I used a **Keyword Allowlist** to scan
 1.  **Clone the repo:**
     ```bash
     git clone https://github.com/Mridul711/Live-Job-Market-Analysis-India
-.git
     ```
 2.  **Install dependencies:**
     ```bash
