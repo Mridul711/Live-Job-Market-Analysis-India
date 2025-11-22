@@ -13,4 +13,4 @@
 * **Strategy:** Focused job applications on these specific hubs and companies to maximize response rates.
 
 **Visuals:**
-![Market Analysis Chart](india_market_analysis.png)
+![Market Analysis Chart](final_job_market_analysis_v4.png)
